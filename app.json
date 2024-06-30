@@ -1,4 +1,5 @@
 {
   "name": "musicApp",
-  "displayName": "musicApp"
+  "displayName": "musicApp",
+  "jsEngine": "hermes"
 }
